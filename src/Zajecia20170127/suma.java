@@ -1,4 +1,4 @@
-package Zajecia2701;
+package Zajecia20170127;
 
 import java.util.Scanner;
 

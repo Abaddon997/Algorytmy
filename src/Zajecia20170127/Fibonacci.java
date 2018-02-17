@@ -1,4 +1,4 @@
-package Zajecia2701;
+package Zajecia20170127;
 
 public class Fibonacci {
     public static void main(String[] args) {
